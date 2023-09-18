@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/matching_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/matching_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/matching_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/single_try/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/single_try/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/single_try/build" />
+      <excludeFolder url="file://$MODULE_DIR$/first_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/first_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/first_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/card_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/card_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/card_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/fikra_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/fikra_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/fikra_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ringtones/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ringtones/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ringtones/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
